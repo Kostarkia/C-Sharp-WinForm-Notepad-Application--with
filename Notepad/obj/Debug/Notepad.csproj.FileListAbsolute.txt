@@ -1,0 +1,10 @@
+C:\Users\bolatfer\source\repos\Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\bolatfer\source\repos\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\bolatfer\source\repos\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\bolatfer\source\repos\Notepad\Notepad\obj\Debug\Notepad.csproj.AssemblyReference.cache
+C:\Users\bolatfer\source\repos\Notepad\Notepad\obj\Debug\Notepad.NotepadScreen.resources
+C:\Users\bolatfer\source\repos\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\bolatfer\source\repos\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+C:\Users\bolatfer\source\repos\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\bolatfer\source\repos\Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\bolatfer\source\repos\Notepad\Notepad\obj\Debug\Notepad.pdb
